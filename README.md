@@ -27,7 +27,7 @@ y=temp
 print("Swapped values are:",x,y)
 ```
 ## OUTPUT
-![Uploading image.png…]()
+![image](https://github.com/Migaleyy/Swapping-two-values/assets/118262199/e5d38e1d-ab9a-4a51-9d56-8cc0ca47bf90)
 
 ## RESULT:
 Thus the swapping of two values are successfully executed
